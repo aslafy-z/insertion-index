@@ -10,7 +10,7 @@
     "jest": "24.9.0",
     "lint-staged": "9.2.5",
     "rimraf": "3.0.0",
-    "standard": "14.3.0"
+    "standard": "14.3.1"
   },
   "husky": {
     "hooks": {
