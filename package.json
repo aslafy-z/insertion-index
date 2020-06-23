@@ -7,7 +7,7 @@
   "devDependencies": {
     "coveralls": "3.0.13",
     "husky": "4.2.5",
-    "jest": "26.0.1",
+    "jest": "26.1.0",
     "lint-staged": "10.2.4",
     "rimraf": "3.0.2",
     "standard": "14.3.3"
